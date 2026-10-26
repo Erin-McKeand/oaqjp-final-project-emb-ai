@@ -1,0 +1,4 @@
+PLACEHOLDER - replace this file with the real terminal output from the Skills Network lab.
+
+Run:
+python3 test_emotion_detection.py

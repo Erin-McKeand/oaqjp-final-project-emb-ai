@@ -1,0 +1,6 @@
+PLACEHOLDER - replace this file with the real terminal output from the Skills Network lab.
+
+Run:
+python3
+>>> from EmotionDetection.emotion_detection import emotion_detector
+>>> emotion_detector("I love this new technology.")

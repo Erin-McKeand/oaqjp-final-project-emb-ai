@@ -1,0 +1,7 @@
+PLACEHOLDER - replace this file with the real terminal output from the Skills Network lab.
+
+Run:
+python3
+>>> from EmotionDetection import emotion_detector
+>>> emotion_detector("I hate working long hours.")
+(dominant_emotion should be anger)
